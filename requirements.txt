@@ -1,5 +1,3 @@
-plaintext
-Copy code
 pandas
 numpy
 matplotlib
